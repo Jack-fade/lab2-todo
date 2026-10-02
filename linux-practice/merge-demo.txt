@@ -1,1 +1,1 @@
-Git merge practice
+Git merge practice: main version
