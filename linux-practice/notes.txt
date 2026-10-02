@@ -1,0 +1,3 @@
+Hello Linux
+实验2文件操作练习
+I am learning Linux.
